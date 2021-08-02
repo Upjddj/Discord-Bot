@@ -1,0 +1,31 @@
+{
+name": "hello-node",
+  "version": "0.0.1",
+  "description": "Gelişmiş Discord Botu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+    
+  
+  "dependencies": {
+    
+    "node-fetch":"^2.6.1",
+    "aoi.js": "^4.2.1",
+    "discord.js": "^12.5.3",
+  
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+    
+    
+  ]
+}
