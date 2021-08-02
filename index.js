@@ -5,6 +5,7 @@ token: "process.env.token", //Discord Bot Token
 prefix: "!" //prefixiniz 
 })
 
+bot.loadCommands('./commands/')
 
 bot.readyCommand({
     channel: "", //You can use this or not
