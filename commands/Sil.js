@@ -6,3 +6,4 @@ module.exports = {
    $thumbnail[$userAvatar]
    $description 
    $message[1]] Kadar Mesaj <@$authorID> Tarafından Silindi
+}
