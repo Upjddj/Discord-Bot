@@ -11,7 +11,7 @@ Ben Yaptım Dersen MİT License devreye girer
 
 Her Şey Ayarlamalıdır Id ye Felan Gerek Yok Yani
 
-Projede 7/24 Aktif Sadece Gunde 1 Kere Felak Girin 
+Projede 7/24 Aktif Sadece Gunde 1 Kere Felan Girin 
 Yeterli Olacaktır (projeye)
 
 
