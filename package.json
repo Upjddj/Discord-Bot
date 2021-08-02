@@ -1,7 +1,8 @@
 {
-name": "hello-node",
+    
+  "name": "hello-node",
   "version": "0.0.1",
-  "description": "Gelişmiş Discord Botu.",
+  "description": "A simple Node app built on fastify, instantly up and running.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,11 +10,7 @@ name": "hello-node",
     
   
   "dependencies": {
-    
-    "node-fetch":"^2.6.1",
-    "aoi.js": "^4.2.1",
-    "discord.js": "^12.5.3",
-  
+   "aoi.js": "^4.2.1"
   },
   "engines": {
     "node": "12.x"
@@ -29,3 +26,5 @@ name": "hello-node",
     
   ]
 }
+​
+​
